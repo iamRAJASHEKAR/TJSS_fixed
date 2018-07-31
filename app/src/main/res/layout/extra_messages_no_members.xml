@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.Space
+        android:id="@id/centerSeparator"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_centerInParent="true" />
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imgNoUserImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/centerSeparator"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:padding="@dimen/activity_default_margin"
+        android:src="@drawable/ic_users_dummy" />
+
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_alignEnd="@+id/imgNoUserImage"
+        android:layout_alignRight="@+id/imgNoUserImage"
+        android:layout_alignTop="@+id/imgNoUserImage"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/fab_bg"
+        android:src="@drawable/ic_add_accent_18" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblSorry"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/centerSeparator"
+        android:layout_centerHorizontal="true"
+        android:text="@string/sorry"
+        android:textSize="17sp" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblSorryMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblSorry"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:gravity="center_horizontal"
+        android:text="@string/you_will_need_to_add_at_least_one_n_member_to_your_circle_to_be_able_to_chat"
+        android:textColor="@color/colorSecondaryText" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        style="@style/tjss_button_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblSorryMessage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/invite_new_member" />
+
+</RelativeLayout>

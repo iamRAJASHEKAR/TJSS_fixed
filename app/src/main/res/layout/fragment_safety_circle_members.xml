@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/extra_toolbar" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lstSafetyCircleMembers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnAddNewMember"
+        android:layout_below="@id/toolBar"
+        tools:ignore="UnknownId" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/btnAddNewMember"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:background="?android:attr/selectableItemBackground"
+        android:drawableLeft="@drawable/add_round"
+        android:drawablePadding="@dimen/activity_default_margin"
+        android:drawableStart="@drawable/add_round"
+        android:gravity="center_vertical"
+        android:padding="@dimen/half_margin"
+        android:text="@string/add_new_member" />
+
+</RelativeLayout>

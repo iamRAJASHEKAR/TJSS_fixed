@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="wrap_content"
+                                             android:layout_marginLeft="?android:attr/actionBarSize"
+                                             android:layout_marginStart="?android:attr/actionBarSize">
+
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="@+id/imgChatImage"
+        app:layout_constraintRight_toRightOf="@+id/imgChatImage"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imgChatImage"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:minHeight="50dp"
+        android:padding="@dimen/quarter_margin_half"
+        android:scaleType="centerCrop"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/me"/>
+
+    <ProgressBar
+        android:id="@+id/pgProgress"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:indeterminate="false"
+        app:layout_constraintBottom_toBottomOf="@+id/imgChatImage"
+        app:layout_constraintLeft_toLeftOf="@+id/imgChatImage"
+        app:layout_constraintRight_toRightOf="@+id/imgChatImage"
+        app:layout_constraintTop_toTopOf="@+id/imgChatImage"/>
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:id="@+id/btnPlay"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/play_bg"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/imgChatImage"
+        app:layout_constraintLeft_toLeftOf="@+id/imgChatImage"
+        app:layout_constraintRight_toRightOf="@+id/imgChatImage"
+        app:layout_constraintTop_toTopOf="@+id/imgChatImage"/>
+
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:id="@id/btnDeleteMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/half_margin"
+        android:layout_marginLeft="@dimen/half_margin"
+        android:layout_marginStart="@dimen/half_margin"
+        android:background="@drawable/accent_round_corner_button_bg"
+        android:padding="@dimen/quarter_margin"
+        android:src="@drawable/ic_delete_message"
+        app:layout_constraintLeft_toLeftOf="@+id/imgChatImage"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+</android.support.constraint.ConstraintLayout>

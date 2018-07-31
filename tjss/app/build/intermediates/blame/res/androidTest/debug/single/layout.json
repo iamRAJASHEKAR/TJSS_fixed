@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\9f5fe704b364e6b10270d15fffd071da\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_pinpad.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\pinpad-1.0.aar\\362c2cb56c4518a5ffc069115f24db3f\\res\\layout\\layout_pinpad.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\co_paystack_android____activity_otp.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\paystack-3.0.5.aar\\b2a844daf03e2c393d8fc21ee863d9aa\\res\\layout\\co_paystack_android____activity_otp.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_button.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\pinpad-1.0.aar\\362c2cb56c4518a5ffc069115f24db3f\\res\\layout\\layout_button.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\card_input_widget.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\layout\\card_input_widget.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\9f5fe704b364e6b10270d15fffd071da\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\co_paystack_android____activity_pin.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\paystack-3.0.5.aar\\b2a844daf03e2c393d8fc21ee863d9aa\\res\\layout\\co_paystack_android____activity_pin.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\9f5fe704b364e6b10270d15fffd071da\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\co_paystack_android____activity_auth.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\paystack-3.0.5.aar\\b2a844daf03e2c393d8fc21ee863d9aa\\res\\layout\\co_paystack_android____activity_auth.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media.xml"
+    }
+]

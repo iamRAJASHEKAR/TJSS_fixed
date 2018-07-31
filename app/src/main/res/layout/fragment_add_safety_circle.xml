@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/txtSafetyCircleName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/activity_default_margin">
+
+
+        <android.support.design.widget.TextInputEditText
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_box_bg"
+            android:hint="@string/safety_circle_name" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="center_vertical"
+        android:text="@string/enter_name_of_your_safety_circle"
+        android:textSize="12sp" />
+
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/chkCreateSafetyCirclePrimaryOrNot"
+        style="@style/tjss_check_style"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:background="?android:attr/selectableItemBackground"
+        android:paddingBottom="@dimen/half_margin"
+        android:paddingTop="@dimen/half_margin"
+        android:text="@string/primary_circle"
+        android:textColor="@color/colorPrimaryText"
+        tools:checked="true" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="top"
+        android:text="@string/primary_circle_represents_your_circle_which_will_be_notified_automatically_if_any_emergency_arises_this_options_is_limited_by_plan_settings"
+        android:textSize="12sp" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:text="@string/suggested_safety_circle_names" />
+
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        app:columnCount="2"
+        app:columnOrderPreserved="true"
+        app:orientation="horizontal"
+        app:rowCount="3"
+        app:rowOrderPreserved="true"
+        app:useDefaultMargins="false">
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/safetyCircleNameFriends"
+            style="@style/safety_circle_names_button_style"
+            android:tag="@string/friends"
+            android:text="@string/friends"
+            app:layout_columnWeight="1" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/safetyCircleNameColleagues"
+            style="@style/safety_circle_names_button_style"
+            android:tag="@string/colleagues"
+            android:text="@string/colleagues"
+            app:layout_columnWeight="1" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/safetyCircleNameGymBuddies"
+            style="@style/safety_circle_names_button_style"
+            android:tag="@string/gym_buddies"
+            android:text="@string/gym_buddies"
+            app:layout_columnWeight="1" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/safetyCircleNameSiblings"
+            style="@style/safety_circle_names_button_style"
+            android:tag="@string/siblings"
+            android:text="@string/siblings"
+            app:layout_columnWeight="1" />
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/safetyCircleNameSpecialPersons"
+            style="@style/safety_circle_names_button_style"
+            android:tag="@string/special_persons"
+            android:text="@string/special_persons"
+            app:layout_columnWeight="1" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/safetyCircleNameFamily"
+            style="@style/safety_circle_names_button_style"
+            android:tag="@string/family"
+            android:text="@string/family"
+            app:layout_columnWeight="1" />
+
+    </android.support.v7.widget.GridLayout>
+
+    <android.support.v7.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/btnDone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_default_margin"
+        android:layout_marginLeft="@dimen/half_margin"
+        android:layout_marginRight="@dimen/half_margin"
+        android:layout_marginTop="@dimen/activity_default_margin"
+        android:background="@drawable/accent_button_bg"
+        android:text="@string/done"
+        android:textAllCaps="false"
+        android:textColor="@color/button_text_color" />
+
+
+</LinearLayout>

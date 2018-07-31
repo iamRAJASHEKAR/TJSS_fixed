@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="@dimen/quarter_margin"
+             android:layout_marginEnd="?android:attr/actionBarSize"
+             android:layout_marginLeft="@dimen/half_margin"
+             android:layout_marginRight="?android:attr/actionBarSize"
+             android:layout_marginStart="@dimen/half_margin"
+             android:layout_marginTop="@dimen/quarter_margin">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_bubble_left_top"
+        android:drawableLeft="@drawable/ic_delete_grey_18"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_delete_grey_18"
+        android:text="@string/this_message_is_deleted"
+        android:textStyle="italic"/>
+
+</FrameLayout>

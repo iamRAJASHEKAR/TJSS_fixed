@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/quarter_margin_half" />
+            <solid android:color="#788f9b" />
+            <padding
+                android:bottom="@dimen/quarter_margin_half"
+                android:left="@dimen/quarter_margin_half"
+                android:right="@dimen/quarter_margin_half"
+                android:top="@dimen/quarter_margin_half" />
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/ic_call_dummy" />
+
+</layer-list>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/cardview_light_background"
+    app:cardCornerRadius="@dimen/quarter_margin_half"
+    app:cardElevation="@dimen/quarter_margin_half"
+    app:cardPreventCornerOverlap="true">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/half_margin">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgMarkerDetailUserImage"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            tools:src="@mipmap/ic_launcher" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblMarkerDetailsName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/default_gap"
+            android:layout_marginStart="@dimen/default_gap"
+            android:layout_marginTop="@dimen/quarter_margin"
+            android:layout_toEndOf="@+id/imgMarkerDetailUserImage"
+            android:layout_toRightOf="@+id/imgMarkerDetailUserImage"
+            tools:text="Sony Raj" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblMarkerDetailsBatteryStatus"
+            style="@style/Base.TextAppearance.AppCompat.Caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lblMarkerDetailsName"
+            android:layout_marginLeft="@dimen/default_gap"
+            android:layout_marginStart="@dimen/default_gap"
+            android:layout_toEndOf="@+id/imgMarkerDetailUserImage"
+            android:layout_toRightOf="@+id/imgMarkerDetailUserImage"
+            android:drawableLeft="@drawable/ic_battery"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_battery"
+            android:gravity="center"
+            tools:text="50%" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblMarkerDetailsLocation"
+            style="@style/Base.TextAppearance.AppCompat.Caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lblMarkerDetailsBatteryStatus"
+            android:layout_marginLeft="@dimen/default_gap"
+            android:layout_marginStart="@dimen/default_gap"
+            android:layout_toEndOf="@+id/imgMarkerDetailUserImage"
+            android:layout_toRightOf="@+id/imgMarkerDetailUserImage"
+            android:drawableLeft="@drawable/ic_location_marker_detail"
+            android:drawableStart="@drawable/ic_location_marker_detail"
+            android:gravity="center"
+            tools:text="Kollam" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

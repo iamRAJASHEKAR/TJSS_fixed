@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <padding
+                android:bottom="@dimen/quarter_margin"
+                android:left="@dimen/quarter_margin"
+                android:right="@dimen/quarter_margin"
+                android:top="@dimen/quarter_margin" />
+            <size
+                android:width="8dp"
+                android:height="8dp" />
+            <solid android:color="@color/colorAccent" />
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/ic_check_12" />
+
+</layer-list>

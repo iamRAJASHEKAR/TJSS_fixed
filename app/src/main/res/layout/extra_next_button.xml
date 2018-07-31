@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+
+    <android.support.v7.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@id/btnNext"
+        android:text="@string/next"
+        style="@style/tjss_button_style" />
+
+</merge>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                                    xmlns:tools="http://schemas.android.com/tools"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginTop="@dimen/quarter_margin"
+                                    app:cardBackgroundColor="@color/cardview_light_background"
+                                    app:cardCornerRadius="@dimen/quarter_margin_half"
+                                    app:cardPreventCornerOverlap="true">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="7dp">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/imgCirclePin"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin"
+            android:adjustViewBounds="true"
+            android:src="@drawable/circle_pin"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblFavPlaceName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imgCirclePin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:layout_toEndOf="@+id/imgCirclePin"
+            android:layout_toRightOf="@+id/imgCirclePin"
+            app:layout_constraintLeft_toRightOf="@+id/imgCirclePin"
+            app:layout_constraintTop_toTopOf="@+id/imgCirclePin"
+            tools:text="Kollam"/>
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblFavPlaceAddress"
+            style="@style/TextAppearance.AppCompat.Caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imgCirclePin"
+            android:layout_toEndOf="@+id/imgCirclePin"
+            android:layout_toRightOf="@+id/imgCirclePin"
+            android:ellipsize="marquee"
+            android:maxLines="2"
+            app:layout_constraintLeft_toLeftOf="@+id/lblFavPlaceName"
+            app:layout_constraintTop_toBottomOf="@+id/lblFavPlaceName"
+            tools:text="Kollam"/>
+
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v7.widget.CardView>

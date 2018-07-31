@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/arcImage"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@drawable/fab_image_bg" />
+
+    <com.innoviussoftwaresolution.tjss.view.widget.FabMenu
+        android:id="@+id/fabMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        app:menu_colorNormal="@android:color/white"
+        app:menu_colorPressed="@android:color/white"
+        app:menu_fab_size="normal"
+        app:menu_icon="@drawable/ic_add_accent_18"
+        app:menu_labels_position="left">
+
+
+        <com.innoviussoftwaresolution.tjss.view.widget.FloatingActionButton
+            android:id="@+id/fabGroupChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/group_chat_bg"
+            app:borderWidth="0dp"
+            app:fab_label="Group Chat"
+            app:fab_size="mini" />
+
+        <com.innoviussoftwaresolution.tjss.view.widget.FloatingActionButton
+            android:id="@+id/fabFriendChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/friend_chat_bg"
+            app:borderWidth="0dp"
+            app:fab_label="Friend Chat"
+            app:fab_size="mini" />
+
+    </com.innoviussoftwaresolution.tjss.view.widget.FabMenu>
+
+</FrameLayout>

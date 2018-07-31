@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fab_label" type="id"/>
+
+    <item name="mainContainer" type="id"/>
+    <item name="toolBar" type="id"/>
+    <item name="btnNext" type="id"/>
+    <item name="centerSeparator" type="id"/>
+    <item name="bottomSeparator" type="id"/>
+    <item name="separator" type="id"/>
+
+    <item name="header" type="id"/>
+    <item name="description" type="id"/>
+    <item name="footer" type="id"/>
+
+    <item name="lblSpinnerLabel" type="id"/>
+
+    <item name="mnuSave" type="id" />
+
+    <item name="lblNoMessage" type="id" />
+
+    <item name="btnDeleteMessage" type="id"/>
+
+</resources>

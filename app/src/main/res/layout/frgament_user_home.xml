@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/extra_toolbar" />
+
+
+    <RelativeLayout
+        android:id="@+id/ltUserProfileTopInfoHolder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent">
+
+        <android.support.v4.widget.Space
+            android:id="@+id/topSeparator"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_default_margin" />
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgUserProfileImage"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_below="@+id/topSeparator"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/quarter_margin"
+            android:src="@drawable/user_image" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnUserProfileChangeImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topSeparator"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/change_button_bg"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:paddingBottom="@dimen/quarter_margin"
+            android:paddingLeft="@dimen/half_margin"
+            android:paddingRight="@dimen/half_margin"
+            android:paddingTop="@dimen/quarter_margin"
+            android:text="@string/change"
+            android:textColor="@color/colorAccent"
+            android:textSize="9sp"
+            tools:ignore="SmallSp" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblUserProfileName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imgUserProfileImage"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/half_margin"
+            android:textColor="@android:color/white"
+            tools:text="@string/mark_john" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblUserProfileEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lblUserProfileName"
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/white"
+            android:textSize="12sp"
+            tools:ignore="HardcodedText"
+            tools:text="mark.john@gmail.com" />
+
+
+        <android.support.v4.widget.Space
+            android:id="@id/separator"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:layout_centerHorizontal="true" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnUserProfileMyAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lblUserProfileEmail"
+            android:layout_marginEnd="@dimen/half_margin"
+            android:layout_marginRight="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:layout_toLeftOf="@id/separator"
+            android:layout_toStartOf="@id/separator"
+            android:background="@drawable/my_account_button_bg"
+            android:minHeight="0dp"
+            android:minWidth="120dp"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingLeft="@dimen/activity_default_margin"
+            android:paddingRight="@dimen/activity_default_margin"
+            android:paddingTop="@dimen/half_margin"
+            android:text="@string/my_account"
+            android:textAllCaps="false"
+            android:textColor="@color/my_account_button_text_color"
+            android:textSize="12sp" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnUserProfileDeleteAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lblUserProfileEmail"
+            android:layout_marginBottom="@dimen/activity_default_margin"
+            android:layout_marginLeft="@dimen/half_margin"
+            android:layout_marginStart="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:layout_toEndOf="@id/separator"
+            android:layout_toRightOf="@id/separator"
+            android:background="@drawable/delete_account_button_bg"
+            android:minHeight="0dp"
+            android:minWidth="120dp"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingLeft="@dimen/activity_default_margin"
+            android:paddingRight="@dimen/activity_default_margin"
+            android:paddingTop="@dimen/half_margin"
+            android:text="@string/delete_account"
+            android:textAllCaps="false"
+            android:textColor="@color/delete_button_text_color"
+            android:textSize="12sp" />
+
+        <android.support.v4.widget.Space
+            android:id="@id/bottomSeparator"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_default_margin"
+            android:layout_below="@+id/btnUserProfileDeleteAccount" />
+
+
+    </RelativeLayout>
+
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:layout_marginBottom="@dimen/half_margin"
+        android:layout_marginTop="@dimen/half_margin"
+        app:columnCount="3"
+        app:columnOrderPreserved="true"
+        app:orientation="horizontal"
+        app:rowCount="4"
+        app:rowOrderPreserved="true"
+        app:useDefaultMargins="true">
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:text="@string/first_name"
+            android:textColor="#ccc"
+            android:textSize="13sp"
+            app:layout_columnWeight=".3" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblUserProfileFirstName"
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:drawableEnd="@drawable/white_check_in_accent"
+            android:drawableRight="@drawable/white_check_in_accent"
+            android:gravity="center_vertical"
+            android:textSize="13sp"
+            app:layout_columnSpan="2"
+            app:layout_columnWeight="1.6"
+            tools:text="@string/john" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:text="@string/last_name"
+            android:textColor="#ccc"
+            android:textSize="13sp"
+            app:layout_column="0"
+            app:layout_columnWeight=".3"
+            app:layout_row="1" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblUserProfileLastName"
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:drawableEnd="@drawable/white_check_in_accent"
+            android:drawableRight="@drawable/white_check_in_accent"
+            android:gravity="center_vertical"
+            android:textSize="13sp"
+            app:layout_columnSpan="2"
+            app:layout_columnWeight="1.6"
+            tools:text="@string/john" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:text="@string/email"
+            android:textColor="#ccc"
+            android:textSize="13sp"
+            app:layout_column="0"
+            app:layout_columnWeight=".3"
+            app:layout_row="2" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblUserProfileEmail2"
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:drawableEnd="@drawable/white_check_in_accent"
+            android:drawableRight="@drawable/white_check_in_accent"
+            android:gravity="center_vertical"
+            android:textSize="13sp"
+            app:layout_columnSpan="2"
+            app:layout_columnWeight="1.6"
+            tools:text="@string/john" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:text="@string/mobile"
+            android:textColor="#ccc"
+            android:textSize="13sp"
+            app:layout_column="0"
+            app:layout_columnWeight=".3"
+            app:layout_gravity="center_vertical"
+            app:layout_row="3" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/cboUserProfileIsdCodes"
+            android:layout_width="100dp"
+            app:layout_column="1"
+            app:layout_row="3" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblUserProfilePhone"
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:drawableEnd="@drawable/white_check_in_accent"
+            android:drawableRight="@drawable/white_check_in_accent"
+            android:gravity="center_vertical"
+            app:layout_column="2"
+            app:layout_columnWeight="1"
+            app:layout_gravity="center_vertical"
+            app:layout_row="3"
+            tools:text="620196016" />
+
+
+    </android.support.v7.widget.GridLayout>
+
+</LinearLayout>

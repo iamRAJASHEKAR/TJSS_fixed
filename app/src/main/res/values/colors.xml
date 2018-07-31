@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fdfdfe</color>
+    <color name="colorPrimaryDark">#ababab</color>
+    <color name="colorAccent">#ff1744</color>
+    <color name="colorTransparentAccent">#3bff1744</color>
+    <color name="colorAccentDark">#b71c1c</color>
+    <color name="colorSecondaryText">#828282</color>
+    <color name="colorPrimaryText">#788f9b</color>
+    <color name="colorDivider">#ccc</color>
+
+    <color name="addContactHeader">#000000</color>
+    <color name="colorTransparent">#ffffff</color>
+    <color name="black">#000</color>
+</resources>

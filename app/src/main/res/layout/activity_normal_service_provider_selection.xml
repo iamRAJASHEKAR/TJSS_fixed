@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ServiceProviderModule.Activities.NormalServiceProviderSelection">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="@dimen/half_margin"
+            android:fitsSystemWindows="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSignUpSignIn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/half_margin"
+                    android:padding="@dimen/half_margin"
+                    android:textSize="@dimen/textSize20sp"
+                    android:text="Service Provider Category"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorSecondaryText" />
+
+            </LinearLayout>
+        </android.support.v7.widget.Toolbar>
+
+       <android.support.v7.widget.RecyclerView
+           android:id="@+id/rvNormalSPlist"
+           android:padding="@dimen/margin_7dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+
+       </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+
+</LinearLayout>

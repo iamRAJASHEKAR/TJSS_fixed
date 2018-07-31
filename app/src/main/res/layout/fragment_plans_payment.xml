@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.AppCompatTextView
+            style="@style/TextAppearance.AppCompat.Display1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/activity_default_margin"
+            android:text="@string/subscription_plan"
+            android:textColor="@android:color/black" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSelectedPlanName"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:text="@string/you_have_selected_silver_plan" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin">
+
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/txtPaymentName"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/text_box_bg"
+                android:hint="@string/name"
+                android:textSize="16sp" />
+
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:drawableLeft="@drawable/ic_account_circle_hint_dummy"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_account_circle_hint_dummy"
+            android:text="@string/name_example_jane_doe" />
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin">
+
+
+            <com.vicmikhailau.maskededittext.MaskedEditText
+                android:id="@+id/txtPaymentPhone"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/text_box_bg"
+                android:hint="@string/phone_number"
+                android:inputType="phone"
+                android:textSize="16sp"/>
+
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:drawableLeft="@drawable/call_hint"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/call_hint"
+            android:text="@string/phone_example_123_46_7890" />
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin">
+
+            <com.vicmikhailau.maskededittext.MaskedEditText
+                android:id="@+id/txtPaymentsCardNumber"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/card_number"
+                android:inputType="number"
+                app:mask="#### #### #### ####" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:drawableLeft="@drawable/ic_credit_card"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_credit_card"
+            android:text="@string/card_number_example_4242_4242_4242_4242" />
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin">
+
+            <com.vicmikhailau.maskededittext.MaskedEditText
+                android:id="@+id/txtPaymentsCardExpiry"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/mm_yy"
+                android:inputType="number"
+                app:mask="##/##" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:drawableLeft="@drawable/ic_credit_card"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_credit_card"
+            android:text="@string/card_expiry_example_12_20" />
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin">
+
+            <com.vicmikhailau.maskededittext.MaskedEditText
+                android:id="@+id/txtPaymentsCardCvv"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/cvv"
+                android:inputType="number"
+                app:mask="###" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:drawableLeft="@drawable/ic_credit_card"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_credit_card"
+            android:text="@string/cvv_example_123" />
+
+
+        <android.support.v4.widget.Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnSubmitPaymentDetails"
+            style="@style/tjss_button_style"
+            android:text="@string/submit" />
+
+        <android.support.v4.widget.Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_default_margin" />
+
+
+    </LinearLayout>
+
+</ScrollView>

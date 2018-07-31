@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.innoviussoftwaresolution.tjss">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!--
+        <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true"/>
+    -->
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <application
+        android:name=".TjssApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="HardcodedDebugMode">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/newApiKey" />
+
+        <!--
+            <meta-data android:name="com.google.android.maps.v2.API_KEY"
+                   android:value="@string/google_maps_key" />
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.bugsnag.android.API_KEY"
+            android:value="bda26d734472ec7bc6d9d890b21b25ed" />
+
+        <activity
+            android:name=".view.activity.SplashActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".view.activity.SignUpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.activity.SignInActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.HomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.CreateCircleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.UserProfileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.FavPlacesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.AddOrEditFavoritePlaceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.AddContactActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.HelpAlertActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.JoinCircleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.MessagesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.ChatDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.PaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.ViewPlanDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.PlansListingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.LocationSharingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.AccountSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.ChangePasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.LocationUpdatesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.AlertOptionsSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SafetyCircleAlertOptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.MapSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.DeleteAccountActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SafetyCircleSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SafetyCircleDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.EditSafetyCircleDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.FaqActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SafetyTipsSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SafetyTipsListingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SafetyCircleMembersListingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SelectContactActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.ServiceProvidersListingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.CreateGroupChatActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name=".view.activity.CreateFriendChatActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name=".view.activity.UserTimeLineActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.CoinPurchaseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.PurchaseServiceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.TimeLineHistoryDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.LoginOrSignUpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.ShareInviteCodeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.IncidentsListingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.MedicalRecordsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.ServiceProviderSelectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.GroupMembersListingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.EditFavPlaceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.activity.SecurityQuestionsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".view.activity.IncidentDetailActivity" />
+        <activity android:name=".view.activity.CheckInListingActivity" />
+        <activity android:name=".view.activity.HelpAlertHistoryActivity" />
+        <activity android:name=".view.activity.HelpAlertDetailsActivity" />
+        <activity android:name=".view.activity.HelpAlertDisplayActivity" />
+        <activity android:name=".view.activity.HelpAlertContactEditActivity" />
+        <activity android:name=".view.activity.AppServiceProviderListingActivity" />
+        <activity android:name=".view.activity.SafetyCircleMembersListingForCheckInActivity" />
+
+        <service
+            android:name=".service.TokenRefreshService"
+            android:exported="false" />
+        <service
+            android:name=".service.LocationUpdateService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />
+            </intent-filter>
+        </service>
+        <service android:name=".service.TjssFireBaseInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".service.TjssFireBaseMessagingService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".service.TravelSpeedMonitorService" />
+        <service android:name=".service.ChatListenerService" />
+        <service android:name=".service.BatteryStatusMonitorService" />
+        <service android:name=".service.LocationUpdateServiceNew" />
+        <service android:name=".HelpAlertNotification.FirebaseMessageService" />
+
+        <receiver android:name=".broadcastreceiver.BootCompletedReceiver" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="3b43ce744489f874e7e7c0cd3a8f917445fb73cd" />
+
+        <activity android:name=".ServiceProviderModule.Activities.ServiceProviderHome" />
+        <activity android:name=".ServiceProviderModule.Activities.Test_help_alert_activity" />
+        <activity android:name=".RequestCircleCodeModule.CircleMembersRequestActivity" />
+        <activity
+            android:name=".view.activity.InvoiceActivity"
+            android:parentActivityName=".view.activity.HomeActivity" />
+        <activity android:name=".ServiceProviderModule.Activities.NormalServiceProviderSelection" />
+        <activity android:name=".ServiceProviderModule.Activities.NormalServiceProviderSubCatSelection"></activity>
+    </application>
+
+</manifest>

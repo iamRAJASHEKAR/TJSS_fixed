@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ltPlanCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/half_margin"
+    android:layout_marginLeft="@dimen/half_margin"
+    android:layout_marginRight="@dimen/half_margin"
+    app:cardBackgroundColor="@color/cardview_light_background"
+    app:cardCornerRadius="@dimen/quarter_margin"
+    app:cardElevation="@dimen/quarter_margin"
+    app:cardPreventCornerOverlap="true">
+
+    <RelativeLayout
+        android:id="@+id/ltPlanRoot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_default_margin"
+        tools:background="@drawable/selected_plan_bg">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblPlanType"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/basic_plan"
+            android:textColor="@color/colorPrimaryText"
+            android:textStyle="bold" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblPlanDuration"
+            style="@style/Base.TextAppearance.AppCompat.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/lblPlanType"
+            android:layout_alignTop="@+id/lblPlanType"
+            android:layout_marginLeft="@dimen/quarter_margin"
+            android:layout_marginStart="@dimen/quarter_margin"
+            android:layout_toEndOf="@+id/lblPlanType"
+            android:layout_toRightOf="@+id/lblPlanType"
+            android:gravity="center_vertical"
+            android:text="@string/_7_day_trial" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblPlanTypeFee"
+            style="@style/TextAppearance.AppCompat.Caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/lblPlanType"
+            android:layout_alignTop="@+id/lblPlanType"
+            android:layout_marginLeft="@dimen/activity_default_margin"
+            android:layout_marginStart="@dimen/activity_default_margin"
+            android:layout_toEndOf="@+id/lblPlanDuration"
+            android:layout_toRightOf="@+id/lblPlanDuration"
+            android:background="#ccc"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/half_margin"
+            android:paddingRight="@dimen/half_margin"
+            android:text="@string/free"
+            android:textColor="@android:color/white" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblPlanDescription"
+            style="@style/TextAppearance.AppCompat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lblPlanType"
+            android:layout_marginTop="@dimen/half_margin"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxLines="2"
+            android:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry"
+            android:textSize="13sp" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnPlanDetails"
+            style="@style/round_button_with_stroke_grey"
+            android:layout_below="@+id/lblPlanDescription"
+            android:text="@string/view_more" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

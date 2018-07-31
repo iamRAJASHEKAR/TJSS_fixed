@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/default_gap"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgWalletDp"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_margin="@dimen/half_margin"
+        tools:src="@drawable/me" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblWalletName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimaryText"
+        tools:text="Sony Raj" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/coins_in_your_wallet"
+        android:textColor="@color/colorPrimaryText" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblCoinsInYourWallet"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:textColor="@color/colorPrimaryText"
+        android:textStyle="bold"
+        tools:text="200" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_default_margin"
+        android:gravity="center_horizontal"
+        tools:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry" />
+
+    <android.support.v7.widget.AppCompatSpinner
+        android:id="@+id/cboSelectCoinsToPurchase"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"/>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="35dp" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnPurchaseCoins"
+        style="@style/tjss_button_style"
+        android:layout_width="250dp"
+        android:text="@string/purchase" />
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/extra_toolbar" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgSafetyCircleDp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/default_group_image"
+            app:civ_border_color="@color/colorAccent"
+            app:civ_border_width="1dp" />
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnChangeSafetyCircleImage"
+            style="@style/tjss_button_style"
+            android:layout_width="wrap_content"
+            android:drawableLeft="@drawable/ic_image"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_image"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingTop="@dimen/half_margin"
+            android:text="@string/change_a_picture" />
+
+    </LinearLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:paddingBottom="@dimen/quarter_margin"
+        android:paddingTop="@dimen/quarter_margin">
+
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/txtSafetyCircleName"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_box_bg"
+            android:hint="@string/safety_circle_name"
+            android:paddingTop="2dp" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_default_margin"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/activity_default_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="center_vertical"
+        android:text="@string/edit_name_of_your_safety_circle" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:text="@string/safety_circle_members"
+        android:textColor="@color/colorSecondaryText" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lstSafetyCircleMembers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin" />
+
+</LinearLayout>

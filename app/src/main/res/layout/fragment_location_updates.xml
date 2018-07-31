@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:text="@string/update_at_least_every"
+        android:textColor="@color/colorPrimaryText" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.AppCompatSeekBar
+            android:id="@+id/skLocationUpdateDuration"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:layout_weight="1"
+            android:max="60"
+            tools:progress="30" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblLocationUpdateDuration"
+            style="@style/Base.TextAppearance.AppCompat.SearchResult.Subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="@dimen/activity_default_margin"
+            android:layout_marginRight="@dimen/activity_default_margin"
+            android:text="30 Min"
+            android:textColor="?attr/colorAccent"
+            tools:ignore="HardcodedText" />
+
+
+    </LinearLayout>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="top"
+        android:text="@string/your_location_will_also_update_automatically_when_you_change_locations" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnUpdateLocationDuration"
+        style="@style/tjss_button_style"
+        android:text="@string/save" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_default_margin" />
+
+
+</LinearLayout>

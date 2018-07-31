@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_plan_details.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_view_plan_details.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_audio_item_right.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_audio_item_right.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_member_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_member_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time_line_item_detail.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_time_line_item_detail.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_service_provider_selection.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_service_provider_selection.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_up_step_two_password.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_up_step_two_password.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_list_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_list_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_tip_category.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_tip_category.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_service_provider_info_window.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_service_provider_info_window.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_buy_a_plan_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_buy_a_plan_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_security_question.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_security_question.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_faq_answer.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_faq_answer.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_check_in_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_check_in_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account_settings.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_account_settings.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\co_paystack_android____activity_pin.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\paystack-3.0.5.aar\\b2a844daf03e2c393d8fc21ee863d9aa\\res\\layout\\co_paystack_android____activity_pin.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_updates.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_location_updates.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_favorite_place_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_favorite_place_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_incident_listing.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_incident_listing.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_marker_info_window.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_marker_info_window.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_password.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_in_password.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_join_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_join_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_contact_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_contact_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_up_step_one_phone.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_up_step_one_phone.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_video_from_right.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_video_from_right.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_incidents_alert_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_incidents_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_horizontal_separator.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_horizontal_separator.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_service_providers_settings.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_service_providers_settings.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plans_payment.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_plans_payment.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_help_alert_history_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_help_alert_history_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_marker_detail_safety_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_marker_detail_safety_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_safety_circle_list.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_safety_circle_list.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup_step_six_select_plan.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\signup_step_six_select_plan.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_signup.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_separator.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_separator.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_transparent_view.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_transparent_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_send_help_alert_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_send_help_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_deleted_from_left.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_deleted_from_left.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_tab_incidents.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_tab_incidents.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_app_service_provider_listing.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_app_service_provider_listing.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_service_providers.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_service_providers.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_text_box.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_text_box.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_create_friend_chat.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_create_friend_chat.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_safety_tip_listing.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_safety_tip_listing.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_up_step_five_your_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_up_step_five_your_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_member.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_member.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_permission_request_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_permission_request_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forgot_password_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_forgot_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_incident_detail.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_incident_detail.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_faq.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_faq.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_chat.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_group_chat.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_init_help_alert.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_init_help_alert.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_new_contact_alert_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_add_new_contact_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_safety_tip_settings.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_safety_tip_settings.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firs_and_last_name.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_firs_and_last_name.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_fav_place_marker_info_window.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_fav_place_marker_info_window.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help_alert_detail.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_help_alert_detail.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_map_settings.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_map_settings.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_text_switcher_text.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_text_switcher_text.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_members_item_for_edit.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_members_item_for_edit.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_service_provider_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_service_provider_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_check_in_history_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_check_in_history_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_detail.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_chat_detail.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_loading_view.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_loading_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_safety_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_add_safety_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_marker_detail_incidents.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_marker_detail_incidents.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_input_widget.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\layout\\card_input_widget.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_faq_header.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_faq_header.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_tab_favorite_places.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_tab_favorite_places.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_list_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_list_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_delete_account.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_delete_account.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\9f5fe704b364e6b10270d15fffd071da\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\co_paystack_android____activity_otp.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\paystack-3.0.5.aar\\b2a844daf03e2c393d8fc21ee863d9aa\\res\\layout\\co_paystack_android____activity_otp.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_count_down_timer_text.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_count_down_timer_text.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_image_from_left.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_image_from_left.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_favorite_place.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_add_favorite_place.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_center_separator.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_center_separator.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_safety_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_edit_safety_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_text_input_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_text_input_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_incident_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_incident_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_log.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_log.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_from_left.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_from_left.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_safety_circle_members.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_safety_circle_members.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_user_time_line_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_user_time_line_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\letter_pin.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\letter_pin.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_picker_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_share_invite_code.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_share_invite_code.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_add_contact.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_add_contact.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_members.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_group_members.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_tip_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_tip_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\9f5fe704b364e6b10270d15fffd071da\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_no_chat_messages_view.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_no_chat_messages_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coin_purchase.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_coin_purchase.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_toolbar.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_toolbar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_video_from_left.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_video_from_left.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_safety_circle_alert_options.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_safety_circle_alert_options.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_safety_circle_details.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_safety_circle_details.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_pin.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_pin.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_up_step_four_your_profile.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_up_step_four_your_profile.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alert_options_settings.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_alert_options_settings.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmet_contacts.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragmet_contacts.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\9f5fe704b364e6b10270d15fffd071da\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_powered_by_google.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_check_in_history.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_check_in_history.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_location_sharing.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_location_sharing.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_next_button.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_next_button.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_favorite_places.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_favorite_places.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_count_down_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_count_down_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_image_from_right.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_image_from_right.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_medical_records.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_medical_records.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_space.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_space.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_audio_item_left.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_audio_item_left.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_signin.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_signin.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_plan.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_plan.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_service.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_service.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_medical_record_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_medical_record_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_plans_listing.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_plans_listing.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_tab_safety_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_tab_safety_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_fab_menu.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_fab_menu.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_simple_spinner_item.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pinpad.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\pinpad-1.0.aar\\362c2cb56c4518a5ffc069115f24db3f\\res\\layout\\layout_pinpad.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_phone.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_in_phone.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_check_box_with_divider.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_check_box_with_divider.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frgament_user_home.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\frgament_user_home.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_messages.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help_alert_display.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_help_alert_display.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_drawer_layout.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_drawer_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_change_password.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_member_for_check_in.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_member_for_check_in.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_splash.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_purchase_service.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_purchase_service.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_deleted_from_right.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_deleted_from_right.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_marker_detail_fav_place.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_marker_detail_fav_place.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\co_paystack_android____activity_auth.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\paystack-3.0.5.aar\\b2a844daf03e2c393d8fc21ee863d9aa\\res\\layout\\co_paystack_android____activity_auth.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_progress_dialog.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_time_line.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_user_time_line.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_chat_item_from_right.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_chat_item_from_right.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_service_provider_item_title_only.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_service_provider_item_title_only.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_messages_no_members.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_messages_no_members.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_up_step_three_secure_your_account.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\sign_up_step_three_secure_your_account.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_delete.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_delete.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_button.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\pinpad-1.0.aar\\362c2cb56c4518a5ffc069115f24db3f\\res\\layout\\layout_button.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_safety_circle_member_for_group_chat.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_safety_circle_member_for_group_chat.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favorite_places_list.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_favorite_places_list.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_group_member.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_group_member.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help_alert.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\fragment_help_alert.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\454c8aa2b4d36dc48139d84df9e37fb1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extra_error.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\layout\\extra_error.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\layout\\select_dialog_multichoice_material.xml"
+    }
+]

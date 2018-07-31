@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\home_fab_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-v21\\home_fab_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\add_favorite_place_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-v21\\add_favorite_place_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\safety_circle_names_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-v21\\safety_circle_names_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

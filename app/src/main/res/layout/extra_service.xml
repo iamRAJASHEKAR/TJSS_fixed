@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/quarter_margin_half"
+    android:layout_marginLeft="@dimen/half_margin"
+    android:layout_marginRight="@dimen/half_margin"
+    android:layout_marginTop="@dimen/quarter_margin_half"
+    app:cardBackgroundColor="@color/cardview_light_background"
+    app:cardCornerRadius="@dimen/quarter_margin_half"
+    app:cardPreventCornerOverlap="true">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        android:padding="@dimen/half_margin">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServiceHeader"
+            style="@style/TextAppearance.AppCompat.Subhead"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/ic_arrow_down_thin"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableRight="@drawable/ic_arrow_down_thin"
+            android:padding="@dimen/half_margin"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Service Header" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServiceDescription"
+            style="@style/TextAppearance.AppCompat.Caption"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingLeft="@dimen/half_margin"
+            android:paddingRight="@dimen/half_margin"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lblServiceHeader"
+            tools:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServiceContactInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/half_margin"
+            android:layout_marginStart="@dimen/half_margin"
+            android:text="@string/contact_info"
+            android:visibility="gone"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lblServiceDescription"
+            tools:visibility="visible" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServiceAddressLine1"
+            style="@style/TextAppearance.AppCompat.Caption"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/half_margin"
+            android:layout_marginStart="@dimen/half_margin"
+            android:layout_marginTop="2dp"
+            android:visibility="gone"
+            app:layout_constraintLeft_toLeftOf="@+id/lblServiceContactInfo"
+            app:layout_constraintRight_toLeftOf="@+id/lblServicesPriceTag"
+            app:layout_constraintTop_toBottomOf="@+id/lblServiceContactInfo"
+            tools:text="Lorem Ipsum, dolor sit amet"
+            tools:visibility="visible" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServicePhone"
+            style="@style/TextAppearance.AppCompat.Caption"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="@dimen/half_margin"
+            android:layout_marginTop="@dimen/quarter_margin"
+            android:visibility="gone"
+            app:layout_constraintLeft_toLeftOf="@+id/lblServiceContactInfo"
+            app:layout_constraintRight_toLeftOf="@+id/lblServicesPriceTag"
+            app:layout_constraintTop_toBottomOf="@+id/lblServiceAddressLine1"
+            tools:text="+91 9746363047"
+            tools:visibility="visible" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServicesCoinsRequired"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/half_margin"
+            android:layout_marginRight="@dimen/half_margin"
+            android:layout_marginTop="8dp"
+            android:drawableLeft="@drawable/ic_coins_gold_24"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_coins_gold_24"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorAccent"
+            android:visibility="gone"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lblServiceDescription"
+            tools:text="10 Coins"
+            tools:visibility="visible" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblServicesPriceTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/half_margin"
+            android:layout_marginRight="@dimen/half_margin"
+            android:drawableLeft="@drawable/ic_price_tag_gold_24"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_price_tag_gold_24"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorAccent"
+            android:visibility="gone"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lblServicesCoinsRequired"
+            tools:text="200 Prices"
+            tools:visibility="visible" />
+
+        <View
+            android:id="@+id/viewServiceSeparator"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginTop="@dimen/activity_default_margin"
+            android:background="@color/colorDivider"
+            android:visibility="gone"
+            app:layout_constraintTop_toBottomOf="@+id/lblServicesPriceTag"
+            tools:visibility="visible" />
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnServiceCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/half_margin"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableLeft="@drawable/ic_call_accent_18"
+            android:drawablePadding="@dimen/half_margin"
+            android:drawableStart="@drawable/ic_call_accent_18"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingLeft="@dimen/activity_default_margin"
+            android:paddingRight="@dimen/activity_default_margin"
+            android:paddingTop="@dimen/half_margin"
+            android:text="@string/call"
+            android:textAllCaps="false"
+            android:textColor="@color/colorAccent"
+            android:visibility="gone"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/viewServiceSeparator"
+            tools:visibility="visible" />
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnServicesPay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/half_margin"
+            android:background="@drawable/accent_round_corner_button_bg"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingLeft="@dimen/activity_default_margin"
+            android:paddingRight="@dimen/activity_default_margin"
+            android:paddingTop="@dimen/half_margin"
+            android:text="@string/pay"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:visibility="gone"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/viewServiceSeparator"
+            tools:visibility="visible" />
+
+
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v7.widget.CardView>

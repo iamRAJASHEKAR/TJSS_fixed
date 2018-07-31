@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AppCompatTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/SafetyCircle"
+    style="@style/safety_circle_item_style"
+    android:layout_below="@id/viewDrawerAccentRibbon"
+    android:text="@string/safety_circle_1" />

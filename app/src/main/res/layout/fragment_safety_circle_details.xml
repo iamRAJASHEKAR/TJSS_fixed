@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgSafetyCircleDp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_users_dummy"
+            app:civ_border_color="@color/colorAccent"
+            app:civ_border_width="1dp" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSafetyCircleName"
+            style="@style/Base.TextAppearance.AppCompat.SearchResult.Subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:text="Safety Circle 1"
+            android:textColor="@color/colorSecondaryText"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:text="@string/safety_circle_members"
+        android:textColor="@color/colorSecondaryText" />
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lstSafetyCircleMembers"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:layout_weight="1" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnLeaveSafetyCircle"
+        style="@style/tjss_button_style"
+        android:text="@string/leave_this_safety_circle" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/activity_default_margin"
+        android:text="@string/this_will_not_delete_the_circle_for_other_members"
+        android:textColor="@color/colorSecondaryText" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\xml\\file_paths.xml"
+    }
+]

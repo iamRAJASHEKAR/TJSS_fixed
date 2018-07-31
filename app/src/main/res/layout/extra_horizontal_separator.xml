@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:layout_below="@+id/imgLocationSharingUserImage"
+    android:layout_marginLeft="@dimen/activity_default_margin"
+    android:layout_marginRight="@dimen/activity_default_margin"
+    android:background="@color/colorDivider"
+    tools:showIn="@layout/fragment_location_sharing" />

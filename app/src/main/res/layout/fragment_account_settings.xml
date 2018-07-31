@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_default_margin" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnAccountSettingsChangePassword"
+        style="@style/settings_button_style"
+        android:text="@string/change_password"
+        android:textStyle="normal" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnAccountSettingsDeleteAccount"
+        style="@style/settings_button_style"
+        android:text="@string/delete_account"
+        android:textStyle="normal" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnAccountSettingsLocationUpdates"
+        style="@style/settings_button_style"
+        android:text="@string/location_updates"
+        android:textStyle="normal" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+
+</LinearLayout>

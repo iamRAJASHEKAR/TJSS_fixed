@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="co.paystack.android.design.widget:pinpad-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pinpad-1.0.aar/362c2cb56c4518a5ffc069115f24db3f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pinpad-1.0.aar/362c2cb56c4518a5ffc069115f24db3f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.paystack.android.design.widget/pinpad/1.0/b161fbf2b544feb95edd20b6997edf023dddfaf6/pinpad-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

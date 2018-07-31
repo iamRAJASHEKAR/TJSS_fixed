@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_default_margin">
+
+
+    <android.support.v4.widget.Space
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/activity_default_margin" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:text="@string/enter_your_invite_code" />
+
+    <!--<com.twixttechnologies.tjss.view.widget.SecurityCircleCodeView
+        android:id="@+id/txtSecurityCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:cc_num_children="6"
+        app:cc_space_after_every="3" />-->
+
+    <com.chaos.view.PinView
+        android:id="@+id/txtSecurityCode"
+        style="@style/PinWidget.PinView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:maxLines="1"
+        app:itemCount="6"
+        app:itemHeight="38dp"
+        app:itemRadius="@dimen/half_margin"
+        app:itemSpacing="@dimen/half_margin"
+        app:itemWidth="38dp"
+        app:lineColor="@color/colorAccent"
+        app:lineWidth="1dp"
+        app:viewType="rectangle"/>
+
+
+    <android.support.v4.widget.Space
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/activity_default_margin" />
+
+    <!--<android.support.v7.widget.AppCompatTextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_margin="@dimen/activity_default_margin"-->
+        <!--android:text="@string/ask_the_circle_creator_for_the_code" />-->
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnRequestCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_corner_accent_button_bg"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:paddingBottom="@dimen/half_margin"
+        android:paddingLeft="@dimen/activity_default_margin"
+        android:paddingRight="@dimen/activity_default_margin"
+        android:paddingTop="@dimen/half_margin"
+        android:text="@string/ask_the_circle_creator_for_the_code"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>

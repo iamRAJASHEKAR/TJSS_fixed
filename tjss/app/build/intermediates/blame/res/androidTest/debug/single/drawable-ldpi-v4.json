@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_jcb.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_jcb.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_mastercard.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_mastercard.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_cvc_amex.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_cvc_amex.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_visa.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_visa.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_cvc.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_cvc.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_discover.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_discover.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_error_amex.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_error_amex.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_diners.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_diners.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_unknown.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_unknown.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_error.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_error.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\ic_amex.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-ldpi-v4\\ic_amex.png"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/white_round" />
+    <item
+        android:bottom="@dimen/half_margin"
+        android:drawable="@drawable/ic_grp_chat_24"
+        android:left="@dimen/half_margin"
+        android:right="@dimen/half_margin"
+        android:top="@dimen/half_margin" />
+
+</layer-list>

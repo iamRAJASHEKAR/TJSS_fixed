@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="?attr/colorPrimary" />
+
+
+    <ImageView
+        android:id="@+id/imgAddFavPlaceHeaderImage"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@id/toolBar"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/header_image_of_favorite_places"
+        android:scaleType="centerCrop"
+        android:src="@drawable/favorite_place" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblFavPlaceHeader"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgAddFavPlaceHeaderImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="@string/favorite_places"
+        android:textColor="@android:color/white" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblFavPlaceHeader"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:text="@string/view_or_add_new_favorite_place"
+        android:textColor="@android:color/white" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnAddFavoritePlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imgAddFavPlaceHeaderImage"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:background="@drawable/add_favorite_place_bg"
+        android:drawableLeft="@drawable/ic_add_circle_white_32"
+        android:drawablePadding="@dimen/activity_default_margin"
+        android:drawableStart="@drawable/ic_add_circle_white_32"
+        android:gravity="start|center_vertical"
+        android:padding="@dimen/half_margin"
+        android:text="@string/add_favorite_place"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblYourFavPlacesHeader"
+        style="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnAddFavoritePlace"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:text="@string/your_favorite_places"
+        android:textColor="@color/colorPrimaryText" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lstFavoritePlaces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblYourFavPlacesHeader"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin" />
+
+
+</RelativeLayout>

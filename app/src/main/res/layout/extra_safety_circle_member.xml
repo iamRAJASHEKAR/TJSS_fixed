@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgSafetyCircleDp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginLeft="@dimen/half_margin"
+            android:layout_marginStart="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@drawable/me" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblCircleMemberName"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/half_margin"
+            android:layout_marginStart="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:textColor="@color/colorPrimaryText"
+            app:layout_constraintLeft_toRightOf="@+id/imgSafetyCircleDp"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Sony Raj" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSafetyBattery"
+            style="@style/Base.TextAppearance.AppCompat.Caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/quarter_margin_half"
+            android:layout_marginStart="@dimen/quarter_margin_half"
+            android:layout_marginTop="@dimen/quarter_margin"
+            android:drawableLeft="@drawable/ic_battery"
+            android:drawablePadding="@dimen/quarter_margin"
+            android:drawableStart="@drawable/ic_battery"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorPrimaryText"
+            app:layout_constraintLeft_toLeftOf="@+id/lblCircleMemberName"
+            app:layout_constraintTop_toBottomOf="@+id/lblCircleMemberName"
+            tools:text="50 %" />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSafetyCircleLocation"
+            style="@style/TextAppearance.AppCompat.Caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/quarter_margin"
+            android:drawableLeft="@drawable/ic_location_on"
+            android:drawablePadding="@dimen/quarter_margin"
+            android:drawableStart="@drawable/ic_location_on"
+            android:gravity="center_vertical"
+            app:layout_constraintLeft_toLeftOf="@+id/lblCircleMemberName"
+            app:layout_constraintTop_toBottomOf="@+id/lblSafetyBattery"
+            tools:text="At Technopark Kollam" />
+
+
+        <android.support.v7.widget.AppCompatImageButton
+            android:id="@+id/btnSafetyCircleMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/half_margin"
+            android:layout_marginRight="@dimen/half_margin"
+            android:background="?android:attr/selectableItemBackground"
+            android:src="@drawable/msg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <android.support.v7.widget.AppCompatImageButton
+            android:id="@+id/btnSafetyCirclePhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/half_margin"
+            android:layout_marginRight="@dimen/half_margin"
+            android:background="?android:attr/selectableItemBackground"
+            android:src="@drawable/phone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/btnSafetyCircleMsg"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v7.widget.CardView>

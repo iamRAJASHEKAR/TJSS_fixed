@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/half_margin">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgGroupMemberImage"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:minHeight="40dp"
+        app:civ_fill_color="#ccc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:src="@drawable/me"/>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblGroupName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        app:layout_constraintBottom_toBottomOf="@+id/imgGroupMemberImage"
+        app:layout_constraintLeft_toRightOf="@+id/imgGroupMemberImage"
+        app:layout_constraintTop_toTopOf="@+id/imgGroupMemberImage"
+        tools:text="Sony Raj"/>
+
+
+</android.support.constraint.ConstraintLayout>

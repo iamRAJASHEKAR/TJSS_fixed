@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@null"
+    android:layout_marginBottom="10dp">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         app:cardCornerRadius="@dimen/activity_default_margin"
+        android:layout_marginBottom="@dimen/scale5dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <include layout="@layout/extra_center_separator" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/tvSrequestTitle"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_default_margin"
+                android:text="Title" />
+
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/tvSPrequestDescription"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_default_margin"
+                android:gravity="center"
+                android:text="@string/loerm_ipsum_is_simply"
+                android:textColor="@color/colorSecondaryText" />
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:padding="@dimen/scale5dp"
+                android:layout_marginBottom="@dimen/activity_default_margin"
+                android:layout_marginTop="@dimen/activity_default_margin"
+                android:orientation="horizontal">
+
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btnSPrequestReject"
+                    android:layout_width="@dimen/serviceProviderBtnWidth"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/round_corner_grey_button_bg"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:paddingBottom="@dimen/half_margin"
+                    android:paddingLeft="@dimen/activity_default_margin"
+                    android:paddingRight="@dimen/activity_default_margin"
+                    android:paddingTop="@dimen/half_margin"
+                    android:text="@string/rejectRequestTxt"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white" />
+
+                <android.support.v4.widget.Space
+                    android:layout_width="@dimen/scale8dp"
+                    android:layout_height="@dimen/scale1dp" />
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btnSPrequestAccept"
+                    android:layout_width="@dimen/serviceProviderBtnWidth"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/round_corner_accent_button_bg"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:paddingBottom="@dimen/half_margin"
+                    android:paddingLeft="@dimen/activity_default_margin"
+                    android:paddingRight="@dimen/activity_default_margin"
+                    android:paddingTop="@dimen/half_margin"
+                    android:text="@string/acceptRequestTxt"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</android.support.constraint.ConstraintLayout>

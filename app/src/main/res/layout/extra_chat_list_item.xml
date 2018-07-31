@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgChatImage"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="@dimen/half_margin"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/half_margin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/me" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblChatTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/half_margin"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/half_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/quarter_margin"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        app:layout_constraintLeft_toRightOf="@+id/imgChatImage"
+        app:layout_constraintRight_toLeftOf="@+id/lblChatMessageTime"
+        app:layout_constraintTop_toTopOf="@+id/imgChatImage"
+        tools:text="Sony Raj" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblChatMessage"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/quarter_margin"
+        android:layout_marginEnd="@dimen/half_margin"
+        android:layout_marginRight="@dimen/half_margin"
+        android:ellipsize="marquee"
+        android:fadingEdgeLength="@dimen/half_margin"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:textColor="@color/colorSecondaryText"
+        app:layout_constraintBottom_toBottomOf="@+id/imgChatImage"
+        app:layout_constraintLeft_toLeftOf="@+id/lblChatTitle"
+        app:layout_constraintRight_toLeftOf="@+id/lblChatMessageTime"
+        tools:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblChatMessageTime"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/lblChatTitle"
+        tools:text="2:00 am" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblUnreadMessage"
+        style="@style/Base.TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/half_margin"
+        android:background="@drawable/round_corner_accent_button_bg"
+        android:gravity="center"
+        android:minHeight="20dp"
+        android:minWidth="20dp"
+        android:textColor="@android:color/white"
+        app:layout_constraintRight_toRightOf="@+id/lblChatMessageTime"
+        app:layout_constraintTop_toBottomOf="@+id/lblChatMessageTime"
+        tools:text="99"/>
+
+</android.support.constraint.ConstraintLayout>

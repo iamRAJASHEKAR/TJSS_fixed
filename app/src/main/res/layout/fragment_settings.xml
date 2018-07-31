@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/half_margin">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgSettingsUserImage"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_below="@id/toolBar"
+            android:layout_margin="@dimen/activity_default_margin"
+            android:src="@drawable/user_image"
+            tools:ignore="UnknownId" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSettingsUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imgSettingsUserImage"
+            android:layout_marginTop="@dimen/activity_default_margin"
+            android:layout_toEndOf="@+id/imgSettingsUserImage"
+            android:layout_toRightOf="@+id/imgSettingsUserImage"
+            android:text="@string/mark_john"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="17sp" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSettingsEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/lblSettingsUserName"
+            android:layout_alignStart="@+id/lblSettingsUserName"
+            android:layout_below="@+id/lblSettingsUserName"
+            android:layout_marginTop="@dimen/activity_default_margin"
+            android:ellipsize="marquee"
+            android:text="mark.john@gmail.com"
+            android:textColor="@color/colorSecondaryText"
+            android:textSize="13sp"
+            tools:ignore="HardcodedText" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btnLogout"
+            style="@style/tjss_button_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/imgSettingsUserImage"
+            android:layout_marginTop="@dimen/activity_default_margin"
+            android:minHeight="0dp"
+            android:paddingBottom="@dimen/half_margin"
+            android:paddingTop="@dimen/half_margin"
+            android:text="@string/log_out" />
+    </RelativeLayout>
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsSafetyCircle"
+        style="@style/settings_button_style"
+        android:text="@string/safety_circle_options" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsMap"
+        style="@style/settings_button_style"
+        android:text="@string/map_options" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsAlert"
+        style="@style/settings_button_style"
+        android:text="@string/alert_options" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsSafetyTips"
+        style="@style/settings_button_style"
+        android:text="@string/safety_tips_options" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsMedicalRecords"
+        style="@style/settings_button_style"
+        android:text="@string/medical_records" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsServiceProviders"
+        style="@style/settings_button_style"
+        android:text="@string/service_providers" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSettingsAccount"
+        style="@style/settings_button_style"
+        android:text="@string/account" />
+
+    <include layout="@layout/extra_horizontal_separator" />
+
+
+</LinearLayout>

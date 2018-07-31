@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AppCompatEditText xmlns:tools="http://schemas.android.com/tools"
+    style="@style/invite_code_style"
+    tools:text="G" />

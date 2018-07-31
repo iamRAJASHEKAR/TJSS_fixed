@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/transparent_accent">
+
+    <View
+        android:layout_width="180dp"
+        android:layout_height="180dp" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgMarkerDetailUserImage"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        app:civ_border_color="@color/colorAccent"
+        app:civ_border_width="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/me" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblMarkerDetailsName"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_default_margin"
+        android:background="@drawable/accent_button_bg"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:maxLines="1"
+        android:maxWidth="70dp"
+        android:paddingBottom="@dimen/quarter_margin"
+        android:paddingLeft="@dimen/half_margin"
+        android:paddingRight="@dimen/half_margin"
+        android:paddingTop="@dimen/quarter_margin"
+        android:textColor="@android:color/white"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Sony Raj" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/view"
+        android:layout_width="116dp"
+        android:layout_height="40dp"
+        android:background="@drawable/fav_place_semi_circle"
+        app:layout_constraintBottom_toBottomOf="@+id/imgMarkerDetailUserImage"
+        app:layout_constraintLeft_toLeftOf="@+id/imgMarkerDetailUserImage"
+        app:layout_constraintRight_toRightOf="@+id/imgMarkerDetailUserImage" />
+
+
+</android.support.constraint.ConstraintLayout>

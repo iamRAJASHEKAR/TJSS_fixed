@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <include layout="@layout/extra_toolbar"/>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_default_margin_double"
+                android:layout_marginRight="@dimen/activity_default_margin_double"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblPlanName"
+                    style="@style/TextAppearance.AppCompat.Title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/half_margin"
+                    android:text="@string/silver"
+                    android:textColor="?attr/colorAccent"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    style="@style/TextAppearance.AppCompat.Subhead"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/activity_default_margin"
+                    android:text="@string/more_information"/>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <View
+                        android:layout_width="50dp"
+                        android:layout_height="1dp"
+                        android:background="?attr/colorAccent"/>
+
+                    <android.support.v7.widget.AppCompatTextView
+                        android:id="@+id/lblPlanAmount"
+                        style="@style/TextAppearance.AppCompat.Display1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/activity_default_margin"
+                        android:text="@string/_250_"
+                        android:textColor="?attr/colorAccent"/>
+
+
+                    <View
+                        android:layout_width="50dp"
+                        android:layout_height="1dp"
+                        android:background="?attr/colorAccent"/>
+
+                </LinearLayout>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblNumberOfSafetyCirclesHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/number_of_safety_circles"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblNumberOfSafetyCircles"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblLocationHistoryDurationHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/location_history_duration"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblLocationHistoryDuration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="1"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblFavPlacesCountHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/favorite_places"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblFavPlacesCount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblMinPointsRequiredHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/minimum_points_required"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblMinPointsRequired"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSafetyTipNameHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/safety_tips"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSafetyTipName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblHelpAlertsHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/help_alerts"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblHelpAlerts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblEmergencyCallOutRequestHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/emergency_callout_request"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblEmergencyCallOutRequest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblCheckinsHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/check_in"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblCheckins"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSecureMessagingHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/secure_messaging"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSecureMessaging"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblIncidentAlertNotificationsHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/incident_alert_notifications"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblIncidentAlertNotifications"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSafetyPalHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/safety_pal"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSafetyPal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblMemberCountHeading"
+                    style="@style/plan_details_heading_style"
+                    android:text="@string/max_safety_circle_members"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblMemberCount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    tools:text="20"/>
+
+
+                <android.support.v4.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/activity_default_margin"/>
+
+                <!--<android.support.v7.widget.AppCompatButton
+                    style="@style/round_button_with_stroke_grey"
+                    android:layout_marginBottom="@dimen/activity_default_margin"
+                    android:layout_marginTop="@dimen/activity_default_margin"
+                    android:text="@string/terms_of_service"/>-->
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

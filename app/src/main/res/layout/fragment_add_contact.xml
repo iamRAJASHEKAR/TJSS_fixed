@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:paddingBottom="@dimen/quarter_margin"
+        android:paddingTop="@dimen/quarter_margin">
+
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/txtAddContactName"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_box_bg"
+            android:hint="@string/first_and_last_name"
+            android:paddingTop="2dp" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="center_vertical"
+        android:text="@string/enter_first_and_last_name_of_new_contact"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <android.support.v7.widget.AppCompatSpinner
+            android:id="@+id/cboAddContactIsdCode"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="@dimen/half_margin"
+            android:layout_marginTop="@dimen/half_margin"
+            android:layout_weight=".4" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".6"
+            android:paddingBottom="@dimen/half_margin">
+
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/txtAddContactPhone"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/transparent"
+                android:hint="@string/enter_number"
+                android:inputType="phone"/>
+
+
+        </android.support.design.widget.TextInputLayout>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:layout_marginTop="-16dp"
+        android:background="@color/colorDivider" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/half_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="center_vertical"
+        android:text="@string/enter_number_of_new_contact"
+        android:textSize="12sp" />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:paddingBottom="@dimen/quarter_margin"
+        android:paddingTop="@dimen/quarter_margin">
+
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/txtAddContactEmail"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_box_bg"
+            android:hint="@string/newContactemail"
+            android:paddingTop="2dp" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:drawableLeft="@drawable/ic_hint"
+        android:drawablePadding="@dimen/half_margin"
+        android:drawableStart="@drawable/ic_hint"
+        android:gravity="center_vertical"
+        android:text="@string/enter_email_of_new_contact"
+        android:textSize="12sp" />
+
+
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/half_margin"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/half_margin"
+        android:background="@drawable/accent_button_bg"
+        android:text="@string/create"
+        android:textAllCaps="false"
+        android:textColor="@color/button_text_color" />
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/half_margin" />
+
+</LinearLayout>

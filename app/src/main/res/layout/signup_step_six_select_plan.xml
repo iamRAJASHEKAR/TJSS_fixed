@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/lrPlans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/half_margin"
+        android:paddingTop="@dimen/half_margin">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/lblSelectedPLan"
+            style="@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/half_margin"
+            android:text="@string/selected_plan"
+            android:textColor="@color/colorPrimaryText" />
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/ltSelectedPlanCard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/half_margin"
+            android:layout_marginRight="@dimen/half_margin"
+            android:tag="-1"
+            app:cardBackgroundColor="@color/colorAccent"
+            app:cardCornerRadius="@dimen/quarter_margin"
+            app:cardElevation="@dimen/quarter_margin"
+            app:cardPreventCornerOverlap="true">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_default_margin">
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSelectedPlanType"
+                    style="@style/TextAppearance.AppCompat.Subhead.Inverse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    tools:text="@string/basic_plan" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSelectedPlanExtra"
+                    style="@style/Base.TextAppearance.AppCompat.Small.Inverse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/lblSelectedPlanType"
+                    android:layout_alignTop="@+id/lblSelectedPlanType"
+                    android:layout_marginLeft="@dimen/quarter_margin"
+                    android:layout_marginStart="@dimen/quarter_margin"
+                    android:layout_toEndOf="@+id/lblSelectedPlanType"
+                    android:layout_toRightOf="@+id/lblSelectedPlanType"
+                    android:gravity="center_vertical"
+                    tools:text="@string/_7_day_trial" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSelectedPlanFee"
+                    style="@style/TextAppearance.AppCompat.Caption"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/lblSelectedPlanType"
+                    android:layout_alignTop="@+id/lblSelectedPlanType"
+                    android:layout_marginLeft="@dimen/activity_default_margin"
+                    android:layout_marginStart="@dimen/activity_default_margin"
+                    android:layout_toEndOf="@+id/lblSelectedPlanExtra"
+                    android:layout_toRightOf="@+id/lblSelectedPlanExtra"
+                    android:background="#ccc"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/half_margin"
+                    android:paddingRight="@dimen/half_margin"
+                    android:textColor="@android:color/white"
+                    tools:text="@string/free" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSelectedPlanDescription"
+                    style="@style/TextAppearance.AppCompat.Inverse"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/lblSelectedPlanType"
+                    android:layout_marginTop="@dimen/half_margin"
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxLines="2"
+                    android:textSize="13sp"
+                    tools:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry" />
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btnSelectedPlanDetails"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/lblSelectedPlanDescription"
+                    android:layout_marginTop="@dimen/half_margin"
+                    android:background="@drawable/view_more_button_white"
+                    android:minHeight="0dp"
+                    android:paddingBottom="@dimen/half_margin"
+                    android:paddingLeft="@dimen/activity_default_margin"
+                    android:paddingRight="@dimen/activity_default_margin"
+                    android:paddingTop="@dimen/half_margin"
+                    android:text="@string/view_more"
+                    android:textAllCaps="false"
+                    android:textColor="@color/colorPrimaryText" />
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <include layout="@layout/extra_space" />
+    </LinearLayout>
+
+</ScrollView>

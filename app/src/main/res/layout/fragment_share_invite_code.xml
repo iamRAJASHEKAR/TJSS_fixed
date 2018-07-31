@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <include layout="@layout/extra_toolbar" />
+
+    <!--Top-->
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".2" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:gravity="center"
+        android:text="@string/share_this_invite_code_with_the_people_want_in_your_circle" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblInviteCode"
+        style="@style/TextAppearance.AppCompat.Display1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        tools:text="KJF-KEO" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/half_margin"
+        android:text="@string/this_code_will_be_active_for_1_day"
+        android:textColor="@color/colorSecondaryText" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSendCode"
+        style="@style/tjss_button_style"
+        android:layout_width="200dp"
+        android:text="@string/send_code" />
+
+    <!--Middle-->
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".7" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/grp_black"
+        android:gravity="center_horizontal"
+        android:text="@string/share_your_code_out_loud_or_send_it_in_a_message" />
+
+    <!--Bottom-->
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".1" />
+
+
+</LinearLayout>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                                        xmlns:tools="http://schemas.android.com/tools"
+                                        android:id="@+id/drawerLayout"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        tools:background="#ccc">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            tools:ignore="UnknownId" />
+
+
+        <include layout="@layout/extra_toolbar"/>
+
+        <LinearLayout
+            android:id="@+id/ltShowMembersOfSafetyCircle"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:layout_below="@id/toolBar"
+            android:background="@android:color/white"
+            android:elevation="@dimen/quarter_margin_half"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/activity_default_margin"
+            android:paddingRight="@dimen/activity_default_margin"
+            tools:ignore="UnknownId,UnusedAttribute">
+
+            <android.support.v7.widget.SwitchCompat
+                android:id="@+id/tglShowMembersOfSafetyCircle"
+                style="@style/tjss_toggle_button_style"
+                android:layout_marginEnd="@dimen/activity_default_margin"
+                android:layout_marginRight="@dimen/activity_default_margin"
+                app:track="@drawable/toggle_switch_track"
+                tools:checked="true"/>
+
+            <android.support.v7.widget.AppCompatTextView
+                style="@style/TextAppearance.AppCompat.Caption"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/show_members_of_your_safety_circle"
+                android:textColor="@color/colorSecondaryText"/>
+
+        </LinearLayout>
+
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/homeTabs"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/home_tabs_height"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/home_tab_background"
+            android:layerType="software"
+            app:tabBackground="?android:attr/selectableItemBackground"
+            app:tabGravity="center"
+            app:tabIndicatorColor="@color/colorAccent"
+            app:tabMode="fixed">
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tbSafetyCircle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout="@layout/extra_tab_safety_circle"
+                android:tag="0"/>
+
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tbFavoritePlaces"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout="@layout/extra_tab_favorite_places"
+                android:tag="1"/>
+
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/tbIncidents"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout="@layout/extra_tab_incidents"
+                android:tag="2"/>
+
+
+        </android.support.design.widget.TabLayout>
+
+        <View
+            android:id="@+id/tabPullOutSeparator"
+            android:layout_width="1dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/homeTabs"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"/>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/homePullOutView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tabPullOutSeparator"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="@dimen/activity_default_margin"
+            android:layout_marginEnd="-210dp"
+            android:layout_marginRight="-210dp"
+            app:cardCornerRadius="22dp">
+
+            <LinearLayout
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/quarter_margin_half">
+
+                <android.support.v7.widget.AppCompatImageButton
+                    android:id="@+id/btnTabPullOutSeparator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_safety_circles_round_bg"
+                    android:src="@drawable/ic_safety_circles_round_bg"/>
+
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/imgPullArrow"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/quarter_margin"
+                    android:layout_marginStart="@dimen/quarter_margin"
+                    android:src="@drawable/ic_arrow_back"/>
+
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblViewAllSelectedTabList"
+                    style="@style/TextAppearance.AppCompat.Caption"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/half_margin"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:gravity="center_vertical"
+                    android:text="@string/view_all_safety_circle_members"
+                    android:textColor="@color/colorPrimaryText"/>
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/homePullOutViewServiceProviders"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tabPullOutSeparator"
+            android:layout_marginBottom="@dimen/activity_default_margin"
+            android:layout_marginLeft="-192dp"
+            android:layout_marginStart="-192dp"
+            app:cardCornerRadius="22dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="@dimen/quarter_margin_half">
+
+                <View
+                    android:layout_width="@dimen/activity_default_margin_double"
+                    android:layout_height="1dp"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblViewAllServiceProviders"
+                    style="@style/TextAppearance.AppCompat.Caption"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/half_margin"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:gravity="center_vertical"
+                    android:text="@string/view_all_service_providers"
+                    android:textColor="@color/colorPrimaryText"/>
+
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/imgPullArrowServiceProviders"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/quarter_margin"
+                    android:layout_marginStart="@dimen/quarter_margin"
+                    android:src="@drawable/ic_arrow_forward"/>
+
+
+                <android.support.v7.widget.AppCompatImageButton
+                    android:id="@+id/btnTabPullOutSeparatorServiceProviders"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_service_provider_round_bg"
+                    android:src="@drawable/ic_service_provider_round_bg"/>
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.AppCompatImageButton
+            android:id="@+id/btnHomeSendHelpAlert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/homeTabs"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="-28dp"
+            android:background="@drawable/home_fab_bg"
+            android:src="@drawable/home_fab"/>
+
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/extra_drawer_layout"/>
+
+</android.support.v4.widget.DrawerLayout>

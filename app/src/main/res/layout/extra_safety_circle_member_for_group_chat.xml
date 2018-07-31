@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/half_margin"
+    android:paddingLeft="@dimen/activity_default_margin"
+    android:paddingRight="@dimen/activity_default_margin"
+    android:paddingTop="@dimen/half_margin">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgSafetyCircleMemberDp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/me" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblCircleMemberName"
+        style="@style/Base.TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/half_margin"
+        app:layout_constraintLeft_toRightOf="@+id/imgSafetyCircleMemberDp"
+        app:layout_constraintTop_toTopOf="@+id/imgSafetyCircleMemberDp"
+        tools:text="Sony Raj" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblSafetyCircleMemberEmail"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="@+id/lblCircleMemberName"
+        app:layout_constraintTop_toBottomOf="@+id/lblCircleMemberName"
+        tools:text="sonyraj.s@gmail.com" />
+
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/chkSafetyCircleMemberSelected"
+        style="@style/tjss_check_style"
+        android:layout_width="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="true">
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="#a6a6a6"/>
+                </shape>
+            </item>
+            <item android:bottom="8dp"
+                  android:drawable="@drawable/ic_gallery_audio" android:left="8dp" android:right="8dp" android:top="8dp"/>
+        </layer-list>
+    </item>
+
+
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@android:color/white"/>
+                </shape>
+            </item>
+            <item android:bottom="8dp"
+                  android:drawable="@drawable/ic_gallery_audio" android:left="8dp" android:right="8dp" android:top="8dp"/>
+        </layer-list>
+    </item>
+
+
+</selector>

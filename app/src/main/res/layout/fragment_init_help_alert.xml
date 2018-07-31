@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/Base.TextAppearance.AppCompat.Subhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:gravity="center"
+        android:text="@string/please_enter_your_security_answer_and_pin_to_initiate_help_alert"/>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblSecurityQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="@dimen/half_margin"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/half_margin"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_default_margin"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:layout_marginTop="@dimen/activity_default_margin"
+        android:hint="@string/answer">
+
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/txtSecurityAnswer"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_box_bg"
+            android:inputType="text"/>
+
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/activity_default_margin"
+        android:text="@string/enter_your_code"/>
+
+
+    <com.chaos.view.PinView
+        android:id="@+id/pinSecurityQuestion"
+        style="@style/PinWidget.PinView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:inputType="number"
+        app:borderColor="@color/colorAccent"
+        app:borderWidth="1dp"
+        app:itemCount="4"
+        app:itemHeight="38dp"
+        app:itemRadius="@dimen/quarter_margin"
+        app:itemSpacing="@dimen/half_margin"
+        app:itemWidth="38dp"
+        app:viewType="rectangle"/>
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnSubmitSecurity"
+        style="@style/tjss_button_style"
+        android:layout_marginTop="@dimen/activity_default_margin_double"
+        android:text="@string/send_help_alert"/>
+
+
+</LinearLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/transparent_accent">
+
+
+    <View
+        android:layout_width="180dp"
+        android:layout_height="180dp" />
+
+
+    <android.support.v4.widget.Space
+        android:id="@id/centerSeparator"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imgMarkerDetailUserImage" />
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgMarkerDetailUserImage"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        app:civ_border_color="@color/colorAccent"
+        app:civ_border_width="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/me" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblMarkerDetailsName"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_default_margin"
+        android:background="@drawable/accent_button_bg"
+        android:paddingBottom="@dimen/quarter_margin"
+        android:paddingLeft="@dimen/half_margin"
+        android:paddingRight="@dimen/half_margin"
+        android:paddingTop="@dimen/quarter_margin"
+        android:textColor="@android:color/white"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Sony Raj" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="116dp"
+        android:layout_height="40dp"
+        android:background="@drawable/half_circle_marker"
+        app:layout_constraintBottom_toBottomOf="@+id/imgMarkerDetailUserImage"
+        app:layout_constraintLeft_toLeftOf="@+id/imgMarkerDetailUserImage"
+        app:layout_constraintRight_toRightOf="@+id/imgMarkerDetailUserImage" />
+
+    <ImageButton
+        android:id="@+id/btnMarkerCall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/default_margin_three_fourth"
+        android:layout_marginEnd="@dimen/half_margin"
+        android:layout_marginRight="@dimen/half_margin"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/ic_marker_call"
+        app:layout_constraintBottom_toBottomOf="@+id/imgMarkerDetailUserImage"
+        app:layout_constraintRight_toLeftOf="@+id/centerSeparator" />
+
+    <ImageButton
+        android:id="@+id/btnMarkerMail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/default_margin_three_fourth"
+        android:layout_marginLeft="@dimen/half_margin"
+        android:layout_marginStart="@dimen/half_margin"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/ic_marker_mail"
+        app:layout_constraintBottom_toBottomOf="@+id/imgMarkerDetailUserImage"
+        app:layout_constraintLeft_toRightOf="@+id/centerSeparator" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_tab_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\favorite_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_font.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\logo_font.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incidents_tab_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\incidents_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_account_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\delete_account_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_more_button_white.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\view_more_button_white.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\primary_circle_drawable_left.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\primary_circle_drawable_left.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_check_box_bg_camera.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\video_check_box_bg_camera.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\change_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\change_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fav_places_round.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_fav_places_round.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fav_place_semi_circle.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\fav_place_semi_circle.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_stroke_grey.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\round_corner_stroke_grey.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\toggle_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_bg_gradient.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\splash_bg_gradient.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\group_chat_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\group_chat_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_image.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\delete_image.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_account_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\my_account_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_plan_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\selected_plan_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powered_by_google_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\powered_by_google_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_check_box_bg_gallery.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\image_check_box_bg_gallery.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accent_ring.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\accent_ring.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_check_box_bg_camera.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\image_check_box_bg_camera.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\un_check_image.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\un_check_image.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\safety_circle_location_image.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\safety_circle_location_image.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_check.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\check_box_check.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friend_chat_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\friend_chat_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_from_right_bottom_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\chat_from_right_bottom_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_safety_circles_round_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_safety_circles_round_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accent_radial_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\accent_radial_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_image.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\check_image.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\half_circle_marker.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\half_circle_marker.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_service_provider_round_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_service_provider_round_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_line.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\gradient_line.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_accent_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\round_corner_accent_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_check_in_accent.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\white_check_in_accent.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_switch_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\toggle_switch_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\safety_circle_names_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\safety_circle_names_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invite_code_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\invite_code_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_favorite_place_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\add_favorite_place_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fav_places_round_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_fav_places_round_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_pin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\circle_pin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_check_box_bg_gallery.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\video_check_box_bg_gallery.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\safety_tip_footer.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\safety_tip_footer.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\marker_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_group_image.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\default_group_image.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_incidents_round_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_incidents_round_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_place.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\favorite_place.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_image.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hint.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\call_hint.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_round.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\add_round.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_fab.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\home_fab.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\safety_circle_tab_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\safety_circle_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_from_right_middle_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\chat_from_right_middle_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accent_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\accent_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_grey_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\round_corner_grey_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_from_right_top_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\chat_from_right_top_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_incidents.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_tab_incidents.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\service_provider_selected_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\service_provider_selected_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_image_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\profile_image_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_check_box_bg_record.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\audio_check_box_bg_record.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_service_provider_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\selected_service_provider_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_image_new.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\splash_image_new.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\fab_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_fab_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\home_fab_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accent_round_corner_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\accent_round_corner_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_check_box_bg_gallery.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\audio_check_box_bg_gallery.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plan_type_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\plan_type_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent_accent.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\transparent_accent.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_btn.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\play_btn.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_image_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\fab_image_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accent_bottom_rounded_button_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\accent_bottom_rounded_button_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\play_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_more_button_outline.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\view_more_button_outline.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_switch_track.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\toggle_switch_track.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_round.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\white_round.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_box_bg.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\text_box_bg.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_tab_background.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\home_tab_background.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\green_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hint.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\ic_hint.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_circle.xml",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\grey_circle.xml"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable\\me.png"
+    }
+]

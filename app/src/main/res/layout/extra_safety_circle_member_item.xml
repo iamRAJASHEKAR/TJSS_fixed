@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="?android:attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblCircleMemberName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_default_margin"
+        android:layout_marginStart="@dimen/activity_default_margin"
+        android:drawablePadding="@dimen/half_margin"
+        android:gravity="center_vertical"
+        android:padding="@dimen/quarter_margin"
+        tools:drawableLeft="@drawable/ic_users_dummy"
+        tools:text="Sony" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1" />
+
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/chkCircleMemberIsAdmin"
+        style="@style/tjss_check_style"
+        android:layout_width="wrap_content"
+        android:layout_marginEnd="@dimen/activity_default_margin"
+        android:layout_marginRight="@dimen/activity_default_margin"
+        android:drawablePadding="@dimen/half_margin"
+        android:gravity="center_vertical"
+        android:text="@string/admin"
+        android:textColor="@color/colorSecondaryText" />
+
+</LinearLayout>

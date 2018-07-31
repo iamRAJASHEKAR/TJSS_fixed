@@ -1,0 +1,782 @@
+[
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saftey_circle_grey.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\saftey_circle_grey.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_gallery_audio.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_gallery_audio.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_right_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_right_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saftey_circle_accent.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\saftey_circle_accent.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_o_grey.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_star_o_grey.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\drawable-hdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_error.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_question.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_question.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_discover.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_discover.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\favorite_place_white.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\favorite_place_white.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bubble_left_bottom.9.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\chat_bubble_left_bottom.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_warning.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_attachment.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_attachment.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_forward.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location_sharing.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_location_sharing.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_grey_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_grey_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_picker.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_picker.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_up_thin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_up_thin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safety_circle_grey.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\safety_circle_grey.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_accent.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_share_accent.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_left.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_left.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_circle_white_32.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_add_circle_white_32.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check_in.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_check_in.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_outline.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\star_outline.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_o.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_star_o.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fav_places_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_fav_places_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exclamation_grey_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_exclamation_grey_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_image.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_image.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\msg.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safety_circle_accent_pull_to_view.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\safety_circle_accent_pull_to_view.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_send.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_record_audio.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_record_audio.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exclamation.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_exclamation.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_videocam_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_videocam_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_hospital.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_hospital.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check_12.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_check_12.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_accent_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_add_accent_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_message.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_message.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_incident.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_incident.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ios_paw.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_ios_paw.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_alt_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_alt_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location_white_32.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_location_white_32.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error_amex.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_error_amex.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_group_chat_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_group_chat_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_shield_white.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_shield_white.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_down_thin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_down_thin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\drawable-hdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chevron_right_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_chevron_right_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_marker_mail.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_marker_mail.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bubble_left_middle.9.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\chat_bubble_left_middle.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_pin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\location_pin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\service_provider.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\service_provider.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_more.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_more.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_forever.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_forever.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\saftey_circle_white.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\saftey_circle_white.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\a7f6d50e801f9cf18767f0af66c34251\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_insert_photo.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_insert_photo.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_video_gallery.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_video_gallery.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_image.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\user_image.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safety_circle_accent.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\safety_circle_accent.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_users_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_users_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mastercard.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_mastercard.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\favorite_place_accent.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\favorite_place_accent.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_thumbs_up.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_thumbs_up.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_less.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_less.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_police_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_police_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_source_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_source_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_drop_down.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_drop_down.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_help_alert.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_help_alert.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_user_18_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_user_18_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exclamation_white_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_exclamation_white_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_audiotrack.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_record_video.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_record_video.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_coin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_coin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_service_provider_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_service_provider_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_jcb.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_jcb.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_call_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_call_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_battery.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_battery.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_marker_call.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_marker_call.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incidents_pin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\incidents_pin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check_white_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_check_white_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_call_accent_32.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_call_accent_32.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location_on.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_location_on.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_shield.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_shield.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_friend_chat_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_friend_chat_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_price_tag_gold_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_price_tag_gold_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_credit_card.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_destination_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_destination_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\me_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\me_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_circle.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_add_circle.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fire_force.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_fire_force.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_arrow.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_play_arrow.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_hospital_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_hospital_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check_accent.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_check_accent.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\service_provider_pull.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\service_provider_pull.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_call_accent_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_call_accent_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\favorite_place_grey.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\favorite_place_grey.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plans.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_plans.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fire_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_fire_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ps_backspace.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\pinpad-1.0.aar\\362c2cb56c4518a5ffc069115f24db3f\\res\\drawable-hdpi-v4\\ps_backspace.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fav_places_pin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\fav_places_pin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bubble_left_top.9.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\chat_bubble_left_top.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_euro.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_euro.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.2.aar\\729599965b11b7b8446ca7c4617f4651\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_exclamation_48.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_exclamation_48.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cvc.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_cvc.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_unknown.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_unknown.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incidents_white.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\incidents_white.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incidents_accent.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\incidents_accent.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_back.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_amex.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_amex.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_security_question.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_security_question.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin_man.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\pin_man.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_account_circle_hint_dummy.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_account_circle_hint_dummy.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_visa.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_visa.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diners.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_diners.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cvc_amex.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-4.1.6.aar\\9ef3c122f1cb37221d8a5d7dc17887b4\\res\\drawable-hdpi-v4\\ic_cvc_amex.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location_marker_detail.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_location_marker_detail.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grp_black.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\grp_black.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_police.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_police.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.4.2.aar\\98dcc9457aca5482e9dbdf69977d5884\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safety_circle_pin.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\safety_circle_pin.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_grp_chat_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_grp_chat_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d19885cab9d18d8f7f8c438b02da7d3d\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_check_accent_18.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_check_accent_18.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\25672032ad1fb4bb5078307f70f3cca8\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_coins_gold_24.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_coins_gold_24.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_32.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\ic_add_32.png"
+    },
+    {
+        "merged": "D:\\TJSS\\tjss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incidents_grey.png",
+        "source": "D:\\TJSS\\tjss\\app\\src\\main\\res\\drawable-hdpi\\incidents_grey.png"
+    }
+]

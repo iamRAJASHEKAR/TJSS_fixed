@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imgChatCheckInLocationImage"
+        android:layout_width="250dp"
+        android:layout_height="115dp"
+        android:layout_alignTop="@+id/imgChatUserImage"
+        android:layout_below="@+id/imgChatUserImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="#ccc"
+        android:scaleType="centerCrop"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/lblChatCheckInLocation"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/imgChatCheckInLocationImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-15dp"
+        android:background="@drawable/accent_bottom_rounded_button_bg"
+        android:gravity="center"
+        android:paddingTop="@dimen/half_margin"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        tools:text="At Kollam" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btnChatCheckIn"
+        style="@style/tjss_button_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgChatCheckInLocationImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-25dp"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:paddingBottom="@dimen/quarter_margin"
+        android:paddingLeft="@dimen/half_margin"
+        android:paddingRight="@dimen/half_margin"
+        android:paddingTop="@dimen/quarter_margin"
+        android:text="@string/check_in"
+        android:textAllCaps="false"
+        android:textSize="12sp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgChatUserImage"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/half_margin"
+        tools:src="@drawable/me" />
+
+</RelativeLayout>
